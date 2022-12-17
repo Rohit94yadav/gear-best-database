@@ -2045,7 +2045,7 @@
       "id": 6
     }
   ],
-  "BestOffer": [
+  "bestOffer": [
     {
       "raing": 4.7707,
       "price": 249,
@@ -2207,7 +2207,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/moisturiser.jpg?v=1626968292"
     }
   ],
-  "MerchStation": [
+  "merchstation": [
     {
       "rating": 4.5,
       "price": 799,
@@ -2530,7 +2530,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-holographic-signature-sugar-tee-white-extra-large-28516866588755.jpg?v=1629195790"
     }
   ],
-  "Treanding": [
+  "trending": [
     {
       "rating": 5,
       "price": 1799,
@@ -2652,7 +2652,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-SETS-WBG-IMAGES-Set2.jpg?v=1632844196"
     }
   ],
-  "BRUSHES": [
+  "brushes": [
     {
       "amount": 1,
       "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-14_1.jpg?v=1627659982",
@@ -2759,7 +2759,7 @@
       "rating": 4.1
     }
   ],
-  "SKINCARE": [
+  "skincare": [
     {
       "amount": 1,
       "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-aquaholic-water-boost-mask-13548848087123.jpg?v=1619115321",
@@ -2929,7 +2929,7 @@
       "rating": 4.1
     }
   ],
-  "Lips": [
+  "lips": [
     {
       "id": 1,
       "amount": 1,
@@ -3291,7 +3291,7 @@
       "rating": 4.7
     }
   ],
-  "Face": [
+  "face": [
     {
       "id": 1,
       "amount": 1,
